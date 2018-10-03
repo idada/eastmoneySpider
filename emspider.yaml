@@ -1,0 +1,61 @@
+name: eastmoney
+channels:
+  - defaults
+dependencies:
+  - appdirs=1.4.3=py36h28b3542_0
+  - asn1crypto=0.24.0=py36_0
+  - atomicwrites=1.2.1=py36_0
+  - attrs=18.2.0=py36h28b3542_0
+  - automat=0.7.0=py36_0
+  - ca-certificates=2018.03.07=0
+  - certifi=2018.8.24=py36_1
+  - cffi=1.11.5=py36h74b6da3_1
+  - colorama=0.3.9=py36h029ae33_0
+  - constantly=15.1.0=py36h28b3542_0
+  - cryptography=2.3.1=py36h74b6da3_0
+  - cssselect=1.0.3=py36_0
+  - hyperlink=18.0.0=py36_0
+  - idna=2.7=py36_0
+  - incremental=17.5.0=py36_0
+  - libiconv=1.15=h1df5818_7
+  - libxml2=2.9.8=hadb2253_1
+  - libxslt=1.1.32=hf6f1972_0
+  - lxml=4.2.5=py36hef2cd61_0
+  - more-itertools=4.3.0=py36_0
+  - openssl=1.0.2p=hfa6e2cd_0
+  - parsel=1.5.0=py36_0
+  - pip=10.0.1=py36_0
+  - pluggy=0.7.1=py36h28b3542_0
+  - py=1.6.0=py36_0
+  - pyasn1=0.4.4=py36h28b3542_0
+  - pyasn1-modules=0.2.2=py36_0
+  - pycparser=2.18=py36_1
+  - pydispatcher=2.0.5=py36_0
+  - pymysql=0.9.2=py36_0
+  - pyopenssl=18.0.0=py36_0
+  - pytest=3.8.0=py36_0
+  - pytest-runner=4.2=py36_0
+  - python=3.6.6=hea74fb7_0
+  - pywin32=223=py36hfa6e2cd_1
+  - queuelib=1.5.0=py36_0
+  - scrapy=1.5.1=py36_0
+  - service_identity=17.0.0=py36h28b3542_0
+  - setuptools=40.2.0=py36_0
+  - six=1.11.0=py36_1
+  - sqlalchemy=1.2.11=py36hfa6e2cd_0
+  - twisted=18.7.0=py36hfa6e2cd_1
+  - vc=14=h0510ff6_3
+  - vs2015_runtime=14.0.25123=3
+  - w3lib=1.19.0=py36_0
+  - wheel=0.31.1=py36_0
+  - wincertstore=0.2=py36h7fe50ca_0
+  - zlib=1.2.11=h8395fce_2
+  - zope=1.0=py36_1
+  - zope.interface=4.5.0=py36hfa6e2cd_0
+  - pip:
+    - pygame==1.9.3
+    - pyhamcrest==1.9.0
+    - redis==2.10.6
+    - scrapy-redis==0.6.8
+prefix: d:\ProgramData\Anaconda3\envs\eastmoney
+
